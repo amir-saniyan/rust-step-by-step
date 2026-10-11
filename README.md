@@ -6,9 +6,10 @@
 
 ## مطالعه‌ی کتاب
 
-برای شروع، فایل [نسخه‌ی Markdown کتاب](rust-step-by-step.md) را به‌ترتیب درس‌ها بخوانید و مثال‌ها را اجرا کنید. مثال‌ها برای Rust 1.85 یا جدیدتر و Edition 2024 نوشته شده‌اند.
+برای شروع، پیوند [https://amir-saniyan.github.io/rust-step-by-step](https://amir-saniyan.github.io/rust-step-by-step) را به‌ترتیب درس‌ها بخوانید و مثال‌ها را اجرا کنید. مثال‌ها برای Rust 1.85 یا جدیدتر و Edition 2024 نوشته شده‌اند.
 
 ## دانلود کتاب
 
-- [دانلود نسخه‌ی HTML](rust-step-by-step.html)
+- [نسخه‌ی Markdown](rust-step-by-step.md)
+- [نسخه‌ی HTML](rust-step-by-step.html)
 - [دانلود نسخه‌ی PDF](rust-step-by-step.pdf)
